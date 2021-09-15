@@ -1,5 +1,3 @@
-<!-- # https-github.com-alireza1377gh -->
-
 <h1 align="center">
   Welcome to Alireza Ghanbarzadeh profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -71,13 +69,6 @@
     <img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
   </a>
  
-<!-- -------------------------- -->
-<a>
-  <img src="https://iconscout.com/icon/atom-655" alt="git"
-  width="40" height="40" />  
-</a>
- 
-
   <!-- ---------------------- -->
   <a>
     <img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40"
