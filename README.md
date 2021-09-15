@@ -15,11 +15,11 @@
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg"
       alt="instagram" />
   </a>
-  <a href="https://mail.google.com/alighanbar8888@gmail.com">
+  <a href="#">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg"
       alt="gmail" />
   </a>
-  <a href="https://stackoverflow.com/users/edit/15966148">
+  <a href="#">
     <img align="center"
       src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg"
       alt="stackoverflow" />
